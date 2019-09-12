@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0F83BD47232797B3004F0EA8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F83BD45232797B3004F0EA8 /* Main.storyboard */; };
+		589D4E92232A2986009934F2 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 589D4E91232A2986009934F2 /* RatingControl.swift */; };
 		BC20907D6CD6629AE98C82FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC209E9A4A9575CCE585E4AC /* ViewController.swift */; };
 		BC209244E735145FA9E512C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC20947E92D17AE12D000157 /* Main.storyboard */; };
 		BC20933DDD0FAC5BE2F7E12C /* testSIngleAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC2095E8B2F400508B783F36 /* testSIngleAppUITests.swift */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		0F83BD46232797B3004F0EA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = testSIngleApp/Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		589D4E91232A2986009934F2 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 		BC20917384BD6BAB9727F5B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BC2091AC53B8CD53753916A5 /* testSIngleAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testSIngleAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC209320297B70D27AC15777 /* testSIngleAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testSIngleAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -113,6 +115,7 @@
 				BC2092AF3BB055A1987EFF9D /* LaunchScreen.storyboard */,
 				BC209B5C318C6BD212DAF8C0 /* AppDelegate.swift */,
 				BC20947E92D17AE12D000157 /* Main.storyboard */,
+				589D4E91232A2986009934F2 /* RatingControl.swift */,
 				BC209E9A4A9575CCE585E4AC /* ViewController.swift */,
 			);
 			path = testSIngleApp;
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC2096D0EAEE07EF848E1803 /* AppDelegate.swift in Sources */,
+				589D4E92232A2986009934F2 /* RatingControl.swift in Sources */,
 				BC20907D6CD6629AE98C82FF /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
