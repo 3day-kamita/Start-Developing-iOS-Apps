@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "testSIngleApp/RatingControl.swift"
-            timestampString = "589974425.709607"
+            timestampString = "590372695.721224"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "67"
-            endingLineNumber = "67"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
             landmarkName = "setupButtons()"
             landmarkType = "7">
          </BreakpointContent>
